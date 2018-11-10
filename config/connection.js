@@ -14,7 +14,7 @@ if (process.env.JAWSDB_URL) {
 	  password: "Hub$chm!tt0816", //Your Password
 	  database: "burgers_db" // Your database
 	});
-}
+};
 
 connection.connect(function(err) {
   if (err) {
