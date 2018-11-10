@@ -23,6 +23,13 @@ h1 {
 	font-size: 30px;
 }
 
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
 span {
 	font-size: 0.85em;
 	background: #B31B1B;
@@ -90,7 +97,7 @@ h1 {
 #submit-btn {
 	padding: 0.57em 1em 0.57em 1em;
 	font-size: 1.5em;
-	background: #38eeff;
+	background: rgb(60, 199, 192);
 	border: none;
 	margin-left: -5px;
 }
